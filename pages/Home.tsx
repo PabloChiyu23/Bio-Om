@@ -11,11 +11,11 @@ export const Home: React.FC = () => {
         {/* Background Overlay */}
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1534068590799-09895a701e3e?auto=format&fit=crop&q=80&w=2000" 
+            src="https://images.unsplash.com/photo-1439405326854-014607f694d7?auto=format&fit=crop&q=80&w=2000" 
             alt="Ocean background" 
             className="w-full h-full object-cover"
           />
-          <div className="absolute inset-0 bg-bio-dark/60"></div>
+          <div className="absolute inset-0 bg-bio-dark/50"></div>
         </div>
 
         {/* Content */}
